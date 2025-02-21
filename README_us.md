@@ -1,5 +1,6 @@
-🇰🇷 [Apple Game](README.md)
-🇯🇵 [Apple Game](README_jp.md)
+🇰🇷 [README 한국어 버전](README.md)
+
+🇯🇵 [README 日本語バージョン](README_jp.md)
 
 # 🍎 Apple Game Macro
 
