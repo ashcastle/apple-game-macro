@@ -1,5 +1,7 @@
-🇺🇸 [Apple Game](README_us.md)
-🇰🇷 [Apple Game](README.md)
+🇺🇸 [README English Version](README_us.md)
+
+🇰🇷 [README 한국어 버전](README.md)
+
 # 🍎 リンゴゲームマクロ (Apple Game Macro)
 
 MacBook Retinaディスプレイ用に作成された自動リンゴゲームマクロです。
