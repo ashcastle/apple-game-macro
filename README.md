@@ -1,4 +1,5 @@
 🇺🇸 [Apple Game](README_us.md)
+
 🇯🇵 [Apple Game](README_jp.md)
 
 # 🍎 사과게임 매크로 (Apple Game Macro)
